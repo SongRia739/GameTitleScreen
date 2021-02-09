@@ -11,7 +11,8 @@ using System.Threading;
 using System.Media;
 
 
-//created by SongRia739 
+//created by SongRia739 (not finished)
+
 
 namespace GameTitleScreen
 {
